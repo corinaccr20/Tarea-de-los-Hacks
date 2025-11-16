@@ -1,1 +1,9 @@
 # Tarea-de-los-Hacks
+Hack#1 [git_h_1](https://github.com/corinaccr20/git_h_1.git).<br>
+Hack#2 [git_h_2](https://github.com/corinaccr20/git_h_2.git).<br>
+Hack#3 [git_h_3](https://github.com/corinaccr20/git_h_3.git).<br>
+Hack#4 [git_h_4](https://github.com/corinaccr20/git_h_4.git).<br>
+Hack#5 [git_h_5](https://github.com/corinaccr20/git_h_5.git).<br>
+Hack#6 [git_h_6](https://github.com/corinaccr20/git_h_6.git).<br>
+Hack#7 [git_h_7](https://github.com/corinaccr20/git_h_7.git).<br>
+Hack#8 [git_h_8](https://github.com/corinaccr20/git_h_8.git).
